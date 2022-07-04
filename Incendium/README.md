@@ -1,3 +1,8 @@
-3.1.10 - 1.16.5
-4.0 - 1.17
-5.0.5 - 1.18.2
+**1.16.5** = Version 3.1.10
+
+**1.17.1** = Version 4.0
+
+**1.18.2** = Version 5.0.5
+
+Note:
+*For 1.16.5, use the mod version only on Fabric, paper version only on Paper, and the normal version for Fabric, Forge, or Vanilla.*
